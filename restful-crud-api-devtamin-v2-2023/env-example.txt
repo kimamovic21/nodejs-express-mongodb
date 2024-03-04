@@ -1,0 +1,4 @@
+MONGO_URI=mongodb+srv://username:password@test.nqayxun.mongodb.net/Node-API?retryWrites=true&w=majority&appName=Test
+PORT=3000
+NODE_ENV=development
+FRONTEND=http://127.0.0.1:5173
